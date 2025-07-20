@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dhivyan-11/LEETCODE/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/dhivyan-11/LEETCODE/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhivyan-11/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhivyan-11/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/dhivyan-11/LEETCODE/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
