@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dhivyan-11/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhivyan-11/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/dhivyan-11/LEETCODE/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/dhivyan-11/LEETCODE/tree/master/0086-partition-list) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
