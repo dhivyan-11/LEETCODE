@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dhivyan-11/LEETCODE/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/dhivyan-11/LEETCODE/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhivyan-11/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/dhivyan-11/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
