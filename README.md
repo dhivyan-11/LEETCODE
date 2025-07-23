@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhivyan-11/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dhivyan-11/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dhivyan-11/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/dhivyan-11/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/dhivyan-11/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sliding Window
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhivyan-11/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/dhivyan-11/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
 ## Stack
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhivyan-11/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/dhivyan-11/LEETCODE/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
