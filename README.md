@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dhivyan-11/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dhivyan-11/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dhivyan-11/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/dhivyan-11/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dhivyan-11/LEETCODE/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
