@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/dhivyan-11/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dhivyan-11/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
