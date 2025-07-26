@@ -1,33 +1,36 @@
-class Solution {
+public class Solution {
     public boolean isMatch(String s, String p) {
-        Boolean dp[][]=new Boolean[s.length()][p.length()];
-        // for(int i=0;i<s.length();i++)
-        //     Arrays.fill(dp[i],-1);
-       return  Match(s,p,s.length()-1,p.length()-1,dp);
-    }
-    public static boolean Match(String str,String pattern,int len1,int len2,Boolean[][]dp){
-        if(len2>=0 && len1<0)
-        {
-            // System.out.println("gh");
-            for(int j=0;j<=len2;j++){
-                if(pattern.charAt(j)!='*')
-                    return false;
+        int m = s.length(), n = p.length();
+        boolean[] prev = new boolean[n + 1];
+        boolean[] curr = new boolean[n + 1];
+
+        prev[0] = true;
+
+        for (int j = 1; j <= n; j++) {
+            if (p.charAt(j - 1) == '*') {
+                prev[j] = prev[j - 1];
             }
-            return true;
         }
-        if(len2<0 && len1>=0){
-            // System.out.println("gh");
-            return false;
+
+        for (int i = 1; i <= m; i++) {
+            curr[0] = false;  // empty pattern cannot match non-empty string
+            for (int j = 1; j <= n; j++) {
+                char sc = s.charAt(i - 1);
+                char pc = p.charAt(j - 1);
+
+                if (pc == '*') {
+                    curr[j] = curr[j - 1] || prev[j];
+                } else if (pc == '?' || pc == sc) {
+                    curr[j] = prev[j - 1];
+                } else {
+                    curr[j] = false;
+                }
+            }
+            boolean[] temp = prev;
+            prev = curr;
+            curr = temp;
         }
-        if(len1<=0 && len2<0)
-            return true;
-        if(dp[len1][len2]!=null)
-            return dp[len1][len2];
-        if(pattern.charAt(len2)=='?'||pattern.charAt(len2)==str.charAt(len1))
-            return dp[len1][len2]=Match(str,pattern,len1-1,len2-1,dp);
-        if(pattern.charAt(len2)=='*')
-            return dp[len1][len2]= Match(str,pattern,len1-1,len2,dp) || Match(str,pattern,len1,len2-1,dp);
-        //this states that the 2 char are not matching and they are not * and ? too
-        return dp[len1][len2]=false;
+
+        return prev[n];
     }
 }
