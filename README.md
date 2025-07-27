@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dhivyan-11/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/dhivyan-11/LEETCODE/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dhivyan-11/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/dhivyan-11/LEETCODE/tree/master/0072-edit-distance) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Stack
 |  |
