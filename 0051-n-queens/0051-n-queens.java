@@ -2,10 +2,14 @@ class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> res = new ArrayList<>();
         char[][] board = new char[n][n];
-        
-        for (char[] row : board)
-            Arrays.fill(row, '.');
-        
+
+        // Use normal for loop to fill board with '.'
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                board[i][j] = '.';
+            }
+        }
+
         backtrack(0, board, res);
         return res;
     }
@@ -43,8 +47,13 @@ class Solution {
 
     private List<String> construct(char[][] board) {
         List<String> res = new ArrayList<>();
-        for (char[] row : board)
-            res.add(new String(row));
+        for (int i = 0; i < board.length; i++) {
+            String rowStr = "";
+            for (int j = 0; j < board[i].length; j++) {
+                rowStr += board[i][j];
+            }
+            res.add(rowStr);
+        }
         return res;
     }
 }
