@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dhivyan-11/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dhivyan-11/LEETCODE/tree/master/0078-subsets) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Two Pointers
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dhivyan-11/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dhivyan-11/LEETCODE/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/dhivyan-11/LEETCODE/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -164,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dhivyan-11/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/dhivyan-11/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
