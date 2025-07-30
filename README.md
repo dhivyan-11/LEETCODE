@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dhivyan-11/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/dhivyan-11/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/dhivyan-11/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 ## Greedy
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhivyan-11/LEETCODE/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/dhivyan-11/LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
