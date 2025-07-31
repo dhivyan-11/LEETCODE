@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dhivyan-11/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dhivyan-11/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dhivyan-11/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/dhivyan-11/LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/dhivyan-11/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 ## Queue
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/dhivyan-11/LEETCODE/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/dhivyan-11/LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dhivyan-11/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/dhivyan-11/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/dhivyan-11/LEETCODE/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
