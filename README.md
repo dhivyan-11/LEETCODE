@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhivyan-11/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhivyan-11/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/dhivyan-11/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhivyan-11/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dhivyan-11/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/dhivyan-11/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dhivyan-11/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Queue
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dhivyan-11/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/dhivyan-11/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dhivyan-11/LEETCODE/tree/master/0046-permutations) |
