@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhivyan-11/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dhivyan-11/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dhivyan-11/LEETCODE/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/dhivyan-11/LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/dhivyan-11/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dhivyan-11/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhivyan-11/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dhivyan-11/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/dhivyan-11/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/dhivyan-11/LEETCODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dhivyan-11/LEETCODE/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dhivyan-11/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/dhivyan-11/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dhivyan-11/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0064-minimum-path-sum) |
