@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dhivyan-11/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -208,8 +209,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhivyan-11/LEETCODE/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
