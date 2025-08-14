@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
+| [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Two Pointers
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 ## Simulation
 |  |
 | ------- |
