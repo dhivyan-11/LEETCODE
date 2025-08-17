@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/dhivyan-11/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/dhivyan-11/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/dhivyan-11/LEETCODE/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/dhivyan-11/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/dhivyan-11/LEETCODE/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/dhivyan-11/LEETCODE/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Stack
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhivyan-11/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
@@ -233,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/dhivyan-11/LEETCODE/tree/master/0101-symmetric-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
