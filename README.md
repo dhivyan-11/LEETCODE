@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/dhivyan-11/LEETCODE/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Stack
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/dhivyan-11/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
