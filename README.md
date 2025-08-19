@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhivyan-11/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
 ## Queue
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dhivyan-11/LEETCODE/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/dhivyan-11/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
 ## Combinatorics
 |  |
 | ------- |
@@ -240,9 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/dhivyan-11/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
