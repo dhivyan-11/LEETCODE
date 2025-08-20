@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dhivyan-11/LEETCODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dhivyan-11/LEETCODE/tree/master/0062-unique-paths) |
+| [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
 ## Stack
 |  |
