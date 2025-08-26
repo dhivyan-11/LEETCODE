@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dhivyan-11/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/dhivyan-11/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dhivyan-11/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/dhivyan-11/LEETCODE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
