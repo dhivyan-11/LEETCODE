@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dhivyan-11/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dhivyan-11/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/dhivyan-11/LEETCODE/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dhivyan-11/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dhivyan-11/LEETCODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dhivyan-11/LEETCODE/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/dhivyan-11/LEETCODE/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
 ## Greedy
@@ -264,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhivyan-11/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhivyan-11/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
