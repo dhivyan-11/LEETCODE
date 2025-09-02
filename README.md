@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dhivyan-11/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dhivyan-11/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/dhivyan-11/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dhivyan-11/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dhivyan-11/LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/dhivyan-11/LEETCODE/tree/master/0204-count-primes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhivyan-11/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/dhivyan-11/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/dhivyan-11/LEETCODE/tree/master/0162-find-peak-element) |
 ## Linked List
 |  |
 | ------- |
