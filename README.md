@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0713-subarray-product-less-than-k](https://github.com/dhivyan-11/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhivyan-11/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0713-subarray-product-less-than-k](https://github.com/dhivyan-11/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dhivyan-11/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dhivyan-11/LEETCODE/tree/master/0162-find-peak-element) |
+| [0713-subarray-product-less-than-k](https://github.com/dhivyan-11/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dhivyan-11/LEETCODE/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dhivyan-11/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
