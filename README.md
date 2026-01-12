@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhivyan-11/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/dhivyan-11/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/dhivyan-11/LEETCODE/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhivyan-11/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/dhivyan-11/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/dhivyan-11/LEETCODE/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/dhivyan-11/LEETCODE/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhivyan-11/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/dhivyan-11/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 ## Sliding Window
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhivyan-11/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/dhivyan-11/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhivyan-11/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/dhivyan-11/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 ## Math
 |  |
