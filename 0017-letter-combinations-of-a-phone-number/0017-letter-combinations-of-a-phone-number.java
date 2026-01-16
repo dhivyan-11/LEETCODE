@@ -1,34 +1,38 @@
 class Solution {
+    List<String>result = new ArrayList<>();
     public List<String> letterCombinations(String digits) {
-        List<String> result = new ArrayList<>();
-        if(digits.isEmpty())
-        {
+        if (digits==null|| digits.length()==0){
             return result;
         }
+        String map[]={
 
-        String []mapping=
-        {
-            "" , "" , "abc" , "def" , "ghi","jkl","mno","pqrs","tuv","wxyz"
+            "",     // 0
+            "",     // 1
+            "abc",  // 2
+            "def",  // 3
+            "ghi",  // 4
+            "jkl",  // 5
+            "mno",  // 6
+            "pqrs", // 7
+            "tuv",  // 8
+            "wxyz"
         };
-        backtracking(digits ,0 , new StringBuilder(),result , mapping);
+        backtrack(0, digits ,new StringBuilder(),map);
         return result;
-    }
-    private void backtracking(String digits ,int index ,StringBuilder path ,List<String>result ,String[]mapping  )
-
-    {
         
+    }
+    public void backtrack(int index, String digits, StringBuilder sb , String[] map){
         if(index==digits.length()){
-            result.add(path.toString());
+            result.add(sb.toString());
             return;
         }
-        
-        String letters=mapping[digits.charAt(index)-'0'];
-        for(int i=0;i<letters.length();i++){
-                path.append(letters.charAt(i));
-                backtracking(digits , index+1 ,path ,result ,mapping);
-                path.deleteCharAt(path.length()-1);
+        String Letters=map[digits.charAt(index)-'0'];
+        for(char ch : Letters.toCharArray()){
+            sb.append(ch);
+            backtrack(index+1 , digits , sb ,map);
+            sb.deleteCharAt(sb.length()-1);
+
 
         }
-
     }
 }
