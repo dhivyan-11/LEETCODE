@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dhivyan-11/LEETCODE/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0494-target-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/dhivyan-11/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/dhivyan-11/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/dhivyan-11/LEETCODE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/dhivyan-11/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dhivyan-11/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/dhivyan-11/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dhivyan-11/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/dhivyan-11/LEETCODE/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
